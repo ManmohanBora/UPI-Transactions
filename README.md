@@ -66,6 +66,11 @@ Key visual elements and insights include:
 
 ## 📸 Screenshots
 
+![Screenshot 2025-04-16 111726](https://github.com/user-attachments/assets/5be216c2-4e13-464c-bb7f-7b29ae7233af)
+![Screenshot 2025-04-16 111808](https://github.com/user-attachments/assets/1573b47c-5ef3-4a42-a036-53b084318921)
+![Screenshot 2025-04-16 111834](https://github.com/user-attachments/assets/8121e262-c400-42b1-8e2c-89582ae1febb)
+![Screenshot 2025-04-16 111902](https://github.com/user-attachments/assets/198d4b65-c0cc-4130-b5c6-ac17fc003c65)
+![Screenshot 2025-04-16 111927](https://github.com/user-attachments/assets/fac4739f-5c48-4918-a127-75136bedb6da)
 
 
 ## 🤝 Contributing
