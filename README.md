@@ -51,7 +51,31 @@ Key visual elements and insights include:
 - Real-world data analysis and business insight generation
 
 ## 🚀 Getting Started
+### Prerequisites
+- Install **Power BI Desktop** ([Download here](https://powerbi.microsoft.com/))
+- Ensure required data sources are accessible
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/upi-transactions-dashboard.git
+### Steps to Use
+1. **Clone the Repository:**
+   ```sh
+   https://github.com/ManmohanBora/UPI-Transactions.git
+   ```
+2. **Open the `.pbix` file** in Power BI Desktop.
+3. **Connect to your data sources** if required.
+4. **Refresh the dataset** and explore the reports.
+
+## 📸 Screenshots
+
+
+
+## 🤝 Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m "Added feature"`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a Pull Request.
+
+## 📬 Contact
+For queries or suggestions, feel free to reach out:
+- **GitHub Issues**: [Open an issue](https://github.com/ManmohanBora/UPI-Transactions/issues)
