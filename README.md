@@ -72,7 +72,6 @@ Key visual elements and insights include:
 ![Screenshot 2025-04-16 111902](https://github.com/user-attachments/assets/198d4b65-c0cc-4130-b5c6-ac17fc003c65)
 ![Screenshot 2025-04-16 111927](https://github.com/user-attachments/assets/fac4739f-5c48-4918-a127-75136bedb6da)
 
-
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
