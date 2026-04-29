@@ -10,7 +10,7 @@ The goal of this project is to provide a comprehensive analysis of UPI transacti
 - State-wise and bank-wise usage patterns
 - Seasonal or monthly trends
 - Market share distribution
-- Key takeaways and actionable insights
+- Key takeaways and actionable insights.
 
 ## 📁 Files Included
 
