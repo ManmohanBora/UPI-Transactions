@@ -44,7 +44,7 @@ Key visual elements and insights include:
 ## 🧠 Skills Demonstrated
 
 - Power BI report building and storytelling.
-- Data transformation using Power Query Editor
+- Data transformation using Power Query Editor.
 - DAX for calculated metrics and KPIs
 - Dashboard interactivity with slicers and filters
 - Data visualization best practices
