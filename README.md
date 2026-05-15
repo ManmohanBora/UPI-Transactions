@@ -47,7 +47,7 @@ Key visual elements and insights include:
 - Data transformation using Power Query Editor.
 - DAX for calculated metrics and KPIs.
 - Dashboard interactivity with slicers and filters.
-- Data visualization best practices
+- Data visualization best practices.
 - Real-world data analysis and business insight generation
 
 ## 🚀 Getting Started
