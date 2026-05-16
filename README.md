@@ -48,7 +48,7 @@ Key visual elements and insights include:
 - DAX for calculated metrics and KPIs.
 - Dashboard interactivity with slicers and filters.
 - Data visualization best practices.
-- Real-world data analysis and business insight generation
+- Real-world data analysis and business insight generation.
 
 ## 🚀 Getting Started
 ### Prerequisites
