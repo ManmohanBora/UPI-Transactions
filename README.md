@@ -53,7 +53,7 @@ Key visual elements and insights include:
 ## 🚀 Getting Started
 ### Prerequisites
 - Install **Power BI Desktop** ([Download here](https://powerbi.microsoft.com/))
-- Ensure required data sources are accessible
+- Ensure required data sources are accessible.
 
 ### Steps to Use
 1. **Clone the Repository:**
