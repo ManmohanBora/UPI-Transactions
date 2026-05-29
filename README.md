@@ -35,11 +35,11 @@ Data has been cleaned and structured in Excel for seamless integration with Powe
 
 Key visual elements and insights include:
 
-- 📅 **Monthly Trends**: Visualizing the rise in UPI transactions month-over-month.
-- 🗺️ **Geographical Analysis**: State-wise comparison through maps and charts.
-- 🏦 **Bank-Level Insights**: Ranking of banks based on transaction count and value.
-- 💡 **KPIs**: Total transactions, total transaction amount, and average transaction value.
-- 🔍 **Interactive Filters**: Customizable views by month, state, bank, and more.
+- 📅 **Monthly Trends**: Visualizing the rise in UPI transactions month-over-month
+- 🗺️ **Geographical Analysis**: State-wise comparison through maps and charts
+- 🏦 **Bank-Level Insights**: Ranking of banks based on transaction count and value
+- 💡 **KPIs**: Total transactions, total transaction amount, and average transaction value
+- 🔍 **Interactive Filters**: Customizable views by month, state, bank, and more
 
 ## 🧠 Skills Demonstrated
 
