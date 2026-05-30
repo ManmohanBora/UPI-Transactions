@@ -6,7 +6,7 @@ This repository contains a Power BI project analyzing UPI (Unified Payments Inte
 
 The goal of this project is to provide a comprehensive analysis of UPI transactions to understand:
 
-- Growth patterns in transaction volume and value
+- Growth patterns in transaction volume and value.
 - State-wise and bank-wise usage patterns
 - Seasonal or monthly trends
 - Market share distribution
